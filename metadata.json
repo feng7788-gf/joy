@@ -1,0 +1,8 @@
+{
+  "name": "家庭聚会游戏中心",
+  "description": "极简美学的家庭聚会游戏合集，包含摇骰子、五子棋、中国象棋及麻将。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
